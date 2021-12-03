@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+In addition to cideos i decided to start a blog for those who prefer text tutorials(like me)
+As i already said this blog is about Raspberry Pi's
