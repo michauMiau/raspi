@@ -39,4 +39,5 @@ defaults:
       path: ""A
       type: post
     values:
-      tags: Computers
+      tags: Other
+      
