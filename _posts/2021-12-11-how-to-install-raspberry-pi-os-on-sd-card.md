@@ -9,7 +9,8 @@ Then click the red button to download the flashing software and run it
 It will ask you to install it so do that.
 Then after installing the program you should see a window like this
 ![Raspberry Pi Imager image](https://assets.raspberrypi.com/static/md-bfd602be71b2c1099b91877aed3b41f0.png)
-               Now you're gonna hove to choose an operating system. 
+
+Now you're gonna hove to choose an operating system. 
 I just went with the recommended one but you might want to go with a diffrent one.
 After you are done choosing the OS i'ts time to to select the device you wanna install Raspberry Pi OS on.
 Double check the sd card you wanna install Raspberry Pi OS on.
